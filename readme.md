@@ -1,7 +1,5 @@
 [![](https://imgur.com/TwTbu4t.png)](https://imgur.com/TwTbu4t.png)
-
-# Discordjs Music Bot
-A simple music bot created with javascript, ffmpeg and discord.js.
+Discordjs Music Bot A simple music bot created with javascript, ffmpeg and discord.js.
 
 # Installation
 `npm install` you will need to do this in order to install the required packages.
