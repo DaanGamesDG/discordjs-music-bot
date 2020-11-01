@@ -25,9 +25,9 @@ GUILD_ID= // emoji server id here
 # Custom emoji usage
 The bot uses a few custom emojis, make sure to create an emoji server and invite your bot here, than add the following emojis to the server and copy the exact name!
 
-[![RedTick](https://emoji.gg/assets/emoji/4366_RedTick.png)](https://emoji.gg/emoji/4366_RedTick)
+[![redtick](https://emoji.gg/assets/emoji/4366_RedTick.png)](https://emoji.gg/emoji/4366_RedTick) redtick
 
-[![GreenTick](https://emoji.gg/assets/emoji/5727_GreenTick.png)](https://emoji.gg/emoji/5727_GreenTick)
+[![greentick](https://emoji.gg/assets/emoji/5727_GreenTick.png)](https://emoji.gg/emoji/5727_GreenTick) greentick
 
 # Disclaimer
 This is an unmaintained project, if you encounter any issues or bugs you have to fix it yourself, I am not updating this repo anymore because its the old [stereo](https://stereodiscord.glitch.me). I am giving away this for free for people to get some custom bots to their server.
