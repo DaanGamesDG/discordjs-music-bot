@@ -1,3 +1,5 @@
+[![music bot banner](https://imgur.com/TwTbu4t.png)
+
 # Discordjs Music Bot
 A simple music bot created with javascript, ffmpeg and discord.js.
 
